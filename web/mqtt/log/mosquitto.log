@@ -1,0 +1,1582 @@
+1602107995: mosquitto version 1.6.12 starting
+1602107995: Config loaded from /mosquitto/config/mosquitto.conf.
+1602107995: Opening ipv4 listen socket on port 8883.
+1602107995: Opening ipv6 listen socket on port 8883.
+1602107995: mosquitto version 1.6.12 running
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108054: New connection from 192.168.176.1 on port 8883.
+1602108054: Client <unknown> disconnected due to protocol error.
+1602108423: New connection from 192.168.176.1 on port 8883.
+1602108423: Client <unknown> disconnected due to protocol error.
+1602108424: New connection from 192.168.176.1 on port 8883.
+1602108424: Client <unknown> disconnected due to protocol error.
+1602108527: New connection from 192.168.176.1 on port 8883.
+1602108527: New client connected from 192.168.176.1 as MQTT_FX_Client (p2, c1, k60).
+1602108652: Client MQTT_FX_Client disconnected.
+1602108738: mosquitto version 1.6.12 terminating
+1602108738: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602108800: mosquitto version 1.6.12 starting
+1602108800: Config loaded from /mosquitto/config/mosquitto.conf.
+1602108800: Opening ipv4 listen socket on port 8883.
+1602108800: Opening ipv6 listen socket on port 8883.
+1602108800: mosquitto version 1.6.12 running
+1602108922: mosquitto version 1.6.12 terminating
+1602108922: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602381972: mosquitto version 1.6.12 starting
+1602381972: Config loaded from /mosquitto/config/mosquitto.conf.
+1602381972: Opening ipv4 listen socket on port 8883.
+1602381972: Opening ipv6 listen socket on port 8883.
+1602381972: mosquitto version 1.6.12 running
+1602383773: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602385574: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602387375: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602389176: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602399887: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602401688: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602403489: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602405290: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602407091: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602408892: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602410693: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602412494: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602414295: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602416096: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602417897: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602419698: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602421499: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602423300: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602425101: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602426902: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602428703: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602430504: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602432305: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602434106: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602435907: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602445226: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602447027: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602448005: mosquitto version 1.6.12 terminating
+1602448005: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602448455: mosquitto version 1.6.12 starting
+1602448455: Config loaded from /mosquitto/config/mosquitto.conf.
+1602448455: Opening ipv4 listen socket on port 8883.
+1602448455: Opening ipv6 listen socket on port 8883.
+1602448455: mosquitto version 1.6.12 running
+1602448515: mosquitto version 1.6.12 terminating
+1602448515: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602448543: mosquitto version 1.6.12 starting
+1602448543: Config loaded from /mosquitto/config/mosquitto.conf.
+1602448543: Opening ipv4 listen socket on port 8883.
+1602448543: Opening ipv6 listen socket on port 8883.
+1602448543: mosquitto version 1.6.12 running
+1602448596: mosquitto version 1.6.12 terminating
+1602448596: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602449107: mosquitto version 1.6.12 starting
+1602449107: Config loaded from /mosquitto/config/mosquitto.conf.
+1602449107: Opening ipv4 listen socket on port 8883.
+1602449107: Opening ipv6 listen socket on port 8883.
+1602449107: mosquitto version 1.6.12 running
+1602449147: New connection from 172.19.0.4 on port 8883.
+1602449147: New client connected from 172.19.0.4 as mqttjs_28661596 (p2, c1, k60).
+1602449333: Socket error on client mqttjs_28661596, disconnecting.
+1602449382: New connection from 172.19.0.4 on port 8883.
+1602449382: New client connected from 172.19.0.4 as mqttjs_837eb31f (p2, c1, k60).
+1602449438: Socket error on client mqttjs_837eb31f, disconnecting.
+1602449479: New connection from 172.19.0.4 on port 8883.
+1602449479: New client connected from 172.19.0.4 as mqttjs_cb529bf2 (p2, c1, k60).
+1602449624: Socket error on client mqttjs_cb529bf2, disconnecting.
+1602449625: mosquitto version 1.6.12 terminating
+1602449625: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602449781: mosquitto version 1.6.12 starting
+1602449781: Config loaded from /mosquitto/config/mosquitto.conf.
+1602449781: Opening ipv4 listen socket on port 8883.
+1602449781: Opening ipv6 listen socket on port 8883.
+1602449781: mosquitto version 1.6.12 running
+1602449807: New connection from 172.21.0.4 on port 8883.
+1602449807: New client connected from 172.21.0.4 as mqttjs_89990039 (p2, c1, k60).
+1602449842: Socket error on client mqttjs_89990039, disconnecting.
+1602449878: New connection from 172.21.0.4 on port 8883.
+1602449878: New client connected from 172.21.0.4 as mqttjs_31492161 (p2, c1, k60).
+1602449942: Socket error on client mqttjs_31492161, disconnecting.
+1602450036: New connection from 172.21.0.4 on port 8883.
+1602450036: New client connected from 172.21.0.4 as mqttjs_b3ba8af0 (p2, c1, k60).
+1602450068: Socket error on client mqttjs_b3ba8af0, disconnecting.
+1602450100: New connection from 172.21.0.4 on port 8883.
+1602450100: New client connected from 172.21.0.4 as mqttjs_5a2508c3 (p2, c1, k60).
+1602450131: Socket error on client mqttjs_5a2508c3, disconnecting.
+1602450166: New connection from 172.21.0.4 on port 8883.
+1602450166: New client connected from 172.21.0.4 as mqttjs_250535b6 (p2, c1, k60).
+1602450410: Socket error on client mqttjs_250535b6, disconnecting.
+1602450410: mosquitto version 1.6.12 terminating
+1602450410: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602450475: mosquitto version 1.6.12 starting
+1602450475: Config loaded from /mosquitto/config/mosquitto.conf.
+1602450475: Opening ipv4 listen socket on port 8883.
+1602450475: Opening ipv6 listen socket on port 8883.
+1602450475: mosquitto version 1.6.12 running
+1602450479: mosquitto version 1.6.12 terminating
+1602450479: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602619513: mosquitto version 1.6.12 starting
+1602619513: Config loaded from /mosquitto/config/mosquitto.conf.
+1602619513: Opening ipv4 listen socket on port 8883.
+1602619513: Opening ipv6 listen socket on port 8883.
+1602619513: mosquitto version 1.6.12 running
+1602621313: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602623114: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602624915: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602626716: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602628517: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602630318: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602632119: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602633920: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602635721: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602637522: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602639323: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602641124: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602642771: mosquitto version 1.6.12 starting
+1602642771: Config loaded from /mosquitto/config/mosquitto.conf.
+1602642771: Opening ipv4 listen socket on port 8883.
+1602642771: Opening ipv6 listen socket on port 8883.
+1602642771: mosquitto version 1.6.12 running
+1602644571: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602646372: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602661736: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602663537: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602682416: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602684218: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602686019: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602687820: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602689621: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602691698: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602693498: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602695299: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602697100: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602698901: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602700702: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602702503: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602704304: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602706105: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602707906: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602716829: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602718630: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602720431: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602724164: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602725965: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602728829: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602736075: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602737877: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602739678: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602741479: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602743280: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602745081: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602746882: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602748683: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602750484: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602752649: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602754449: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602756250: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602758051: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602759852: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602763234: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602765035: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602766836: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602782414: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602784215: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602792087: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602793888: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602795689: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602797490: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602799291: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602800191: mosquitto version 1.6.12 starting
+1602800191: Config loaded from /mosquitto/config/mosquitto.conf.
+1602800191: Opening ipv4 listen socket on port 8883.
+1602800191: Opening ipv6 listen socket on port 8883.
+1602800191: mosquitto version 1.6.12 running
+1602801992: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602803793: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602805594: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602807395: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602809196: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602810997: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602812798: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602814599: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602817456: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602821418: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602824233: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602826034: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602827835: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602829636: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602831437: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602833238: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602835039: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602846384: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602848185: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602849986: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602851787: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602853588: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602855389: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602857190: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602858991: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602860792: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602862593: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602864394: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602866195: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602867996: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602869797: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602871598: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602873399: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602875365: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602878110: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1602879910: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603153965: mosquitto version 1.6.12 starting
+1603153965: Config loaded from /mosquitto/config/mosquitto.conf.
+1603153965: Opening ipv4 listen socket on port 8883.
+1603153965: Opening ipv6 listen socket on port 8883.
+1603153965: mosquitto version 1.6.12 running
+1603155766: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603157567: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603159368: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603161169: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603162970: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603164771: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603183283: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603185084: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603186885: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603188686: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603190487: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603192288: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603194089: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603195890: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603197691: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603199492: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603201293: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603203094: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603204895: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603206540: mosquitto version 1.6.12 terminating
+1603206540: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603206669: mosquitto version 1.6.12 starting
+1603206669: Config loaded from /mosquitto/config/mosquitto.conf.
+1603206669: Opening ipv4 listen socket on port 8883.
+1603206669: Opening ipv6 listen socket on port 8883.
+1603206669: mosquitto version 1.6.12 running
+1603206715: New connection from 172.19.0.4 on port 8883.
+1603206715: New client connected from 172.19.0.4 as mqttjs_f87730ea (p2, c1, k60).
+1603208470: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603210271: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603212072: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603213873: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603215564: Socket error on client mqttjs_f87730ea, disconnecting.
+1603215565: mosquitto version 1.6.12 terminating
+1603215565: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603215697: mosquitto version 1.6.12 starting
+1603215697: Config loaded from /mosquitto/config/mosquitto.conf.
+1603215697: Opening ipv4 listen socket on port 8883.
+1603215697: Opening ipv6 listen socket on port 8883.
+1603215697: mosquitto version 1.6.12 running
+1603215743: New connection from 172.21.0.4 on port 8883.
+1603215743: New client connected from 172.21.0.4 as mqttjs_da439244 (p2, c1, k60).
+1603215873: mosquitto version 1.6.12 starting
+1603215873: Config loaded from /mosquitto/config/mosquitto.conf.
+1603215873: Opening ipv4 listen socket on port 8883.
+1603215873: Opening ipv6 listen socket on port 8883.
+1603215873: mosquitto version 1.6.12 running
+1603215915: New connection from 172.23.0.4 on port 8883.
+1603215915: New client connected from 172.23.0.4 as mqttjs_e13680bf (p2, c1, k60).
+1603216092: mosquitto version 1.6.12 starting
+1603216092: Config loaded from /mosquitto/config/mosquitto.conf.
+1603216092: Opening ipv4 listen socket on port 8883.
+1603216092: Opening ipv6 listen socket on port 8883.
+1603216092: mosquitto version 1.6.12 running
+1603216128: New connection from 172.25.0.4 on port 8883.
+1603216128: New client connected from 172.25.0.4 as mqttjs_a28ee54e (p2, c1, k60).
+1603216363: Socket error on client mqttjs_a28ee54e, disconnecting.
+1603216409: New connection from 172.25.0.4 on port 8883.
+1603216409: New client connected from 172.25.0.4 as mqttjs_eb7bb343 (p2, c1, k60).
+1603216541: Socket error on client mqttjs_eb7bb343, disconnecting.
+1603216584: New connection from 172.25.0.4 on port 8883.
+1603216584: New client connected from 172.25.0.4 as mqttjs_1092490c (p2, c1, k60).
+1603216750: Socket error on client mqttjs_1092490c, disconnecting.
+1603216808: New connection from 172.25.0.4 on port 8883.
+1603216808: New client connected from 172.25.0.4 as mqttjs_00b965c0 (p2, c1, k60).
+1603216833: Socket error on client mqttjs_00b965c0, disconnecting.
+1603216894: New connection from 172.25.0.4 on port 8883.
+1603216894: New client connected from 172.25.0.4 as mqttjs_c13d2076 (p2, c1, k60).
+1603216943: Socket error on client mqttjs_c13d2076, disconnecting.
+1603216987: New connection from 172.25.0.4 on port 8883.
+1603216987: New client connected from 172.25.0.4 as mqttjs_7f15f15a (p2, c1, k60).
+1603217085: Socket error on client mqttjs_7f15f15a, disconnecting.
+1603217135: New connection from 172.25.0.4 on port 8883.
+1603217135: New client connected from 172.25.0.4 as mqttjs_e5d723da (p2, c1, k60).
+1603217389: Socket error on client mqttjs_e5d723da, disconnecting.
+1603217481: New connection from 172.25.0.4 on port 8883.
+1603217481: New client connected from 172.25.0.4 as mqttjs_4f8dd350 (p2, c1, k60).
+1603217508: Socket error on client mqttjs_4f8dd350, disconnecting.
+1603217554: New connection from 172.25.0.4 on port 8883.
+1603217554: New client connected from 172.25.0.4 as mqttjs_b2ddb252 (p2, c1, k60).
+1603217575: Socket error on client mqttjs_b2ddb252, disconnecting.
+1603217620: New connection from 172.25.0.4 on port 8883.
+1603217620: New client connected from 172.25.0.4 as mqttjs_47308051 (p2, c1, k60).
+1603217646: Socket error on client mqttjs_47308051, disconnecting.
+1603217692: New connection from 172.25.0.4 on port 8883.
+1603217692: New client connected from 172.25.0.4 as mqttjs_b93de0b9 (p2, c1, k60).
+1603217848: Socket error on client mqttjs_b93de0b9, disconnecting.
+1603217893: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603217901: New connection from 172.25.0.4 on port 8883.
+1603217901: New client connected from 172.25.0.4 as mqttjs_db56e2d0 (p2, c1, k60).
+1603217911: Socket error on client mqttjs_db56e2d0, disconnecting.
+1603217959: New connection from 172.25.0.4 on port 8883.
+1603217959: New client connected from 172.25.0.4 as mqttjs_0c60e371 (p2, c1, k60).
+1603217980: Socket error on client mqttjs_0c60e371, disconnecting.
+1603218028: New connection from 172.25.0.4 on port 8883.
+1603218028: New client connected from 172.25.0.4 as mqttjs_685a6f8e (p2, c1, k60).
+1603218050: Socket error on client mqttjs_685a6f8e, disconnecting.
+1603218098: New connection from 172.25.0.4 on port 8883.
+1603218098: New client connected from 172.25.0.4 as mqttjs_9ae9b60b (p2, c1, k60).
+1603218112: Socket error on client mqttjs_9ae9b60b, disconnecting.
+1603218163: New connection from 172.25.0.4 on port 8883.
+1603218163: New client connected from 172.25.0.4 as mqttjs_ea698fbd (p2, c1, k60).
+1603218191: Socket error on client mqttjs_ea698fbd, disconnecting.
+1603218246: New connection from 172.25.0.4 on port 8883.
+1603218246: New client connected from 172.25.0.4 as mqttjs_41a72ffc (p2, c1, k60).
+1603218356: Socket error on client mqttjs_41a72ffc, disconnecting.
+1603218404: New connection from 172.25.0.4 on port 8883.
+1603218404: New client connected from 172.25.0.4 as mqttjs_3c7eea07 (p2, c1, k60).
+1603218405: Socket error on client mqttjs_3c7eea07, disconnecting.
+1603218529: New connection from 172.25.0.4 on port 8883.
+1603218529: New client connected from 172.25.0.4 as mqttjs_09f4780f (p2, c1, k60).
+1603218584: Socket error on client mqttjs_09f4780f, disconnecting.
+1603218631: New connection from 172.25.0.4 on port 8883.
+1603218631: New client connected from 172.25.0.4 as mqttjs_f5fbf605 (p2, c1, k60).
+1603218658: Socket error on client mqttjs_f5fbf605, disconnecting.
+1603218704: New connection from 172.25.0.4 on port 8883.
+1603218704: New client connected from 172.25.0.4 as mqttjs_de1e3d31 (p2, c1, k60).
+1603218755: Socket error on client mqttjs_de1e3d31, disconnecting.
+1603218852: New connection from 172.25.0.4 on port 8883.
+1603218852: New client connected from 172.25.0.4 as mqttjs_2a2f01f0 (p2, c1, k60).
+1603218923: Socket error on client mqttjs_2a2f01f0, disconnecting.
+1603218972: New connection from 172.25.0.4 on port 8883.
+1603218972: New client connected from 172.25.0.4 as mqttjs_41ed4795 (p2, c1, k60).
+1603219219: Socket error on client mqttjs_41ed4795, disconnecting.
+1603219265: New connection from 172.25.0.4 on port 8883.
+1603219265: New client connected from 172.25.0.4 as mqttjs_c8e5961e (p2, c1, k60).
+1603219300: Socket error on client mqttjs_c8e5961e, disconnecting.
+1603219346: New connection from 172.25.0.4 on port 8883.
+1603219346: New client connected from 172.25.0.4 as mqttjs_9c2a21d7 (p2, c1, k60).
+1603219366: Socket error on client mqttjs_9c2a21d7, disconnecting.
+1603219415: New connection from 172.25.0.4 on port 8883.
+1603219415: New client connected from 172.25.0.4 as mqttjs_af07abaa (p2, c1, k60).
+1603219606: Socket error on client mqttjs_af07abaa, disconnecting.
+1603219694: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603219722: New connection from 172.25.0.4 on port 8883.
+1603219722: New client connected from 172.25.0.4 as mqttjs_f5b02ee7 (p2, c1, k60).
+1603219779: Socket error on client mqttjs_f5b02ee7, disconnecting.
+1603219830: New connection from 172.25.0.4 on port 8883.
+1603219830: New client connected from 172.25.0.4 as mqttjs_0cdcda40 (p2, c1, k60).
+1603219854: Socket error on client mqttjs_0cdcda40, disconnecting.
+1603219902: New connection from 172.25.0.4 on port 8883.
+1603219902: New client connected from 172.25.0.4 as mqttjs_c311b519 (p2, c1, k60).
+1603219944: Socket error on client mqttjs_c311b519, disconnecting.
+1603219992: New connection from 172.25.0.4 on port 8883.
+1603219992: New client connected from 172.25.0.4 as mqttjs_fd19828b (p2, c1, k60).
+1603220065: Socket error on client mqttjs_fd19828b, disconnecting.
+1603220114: New connection from 172.25.0.4 on port 8883.
+1603220114: New client connected from 172.25.0.4 as mqttjs_d7ea281f (p2, c1, k60).
+1603220215: Socket error on client mqttjs_d7ea281f, disconnecting.
+1603220262: New connection from 172.25.0.4 on port 8883.
+1603220262: New client connected from 172.25.0.4 as mqttjs_a6ae4a31 (p2, c1, k60).
+1603220493: Socket error on client mqttjs_a6ae4a31, disconnecting.
+1603220543: New connection from 172.25.0.4 on port 8883.
+1603220543: New client connected from 172.25.0.4 as mqttjs_bf9fb59a (p2, c1, k60).
+1603220640: Socket error on client mqttjs_bf9fb59a, disconnecting.
+1603220688: New connection from 172.25.0.4 on port 8883.
+1603220688: New client connected from 172.25.0.4 as mqttjs_11e239e4 (p2, c1, k60).
+1603220708: Socket error on client mqttjs_11e239e4, disconnecting.
+1603220755: New connection from 172.25.0.4 on port 8883.
+1603220755: New client connected from 172.25.0.4 as mqttjs_c052bb37 (p2, c1, k60).
+1603220837: Socket error on client mqttjs_c052bb37, disconnecting.
+1603220884: New connection from 172.25.0.4 on port 8883.
+1603220884: New client connected from 172.25.0.4 as mqttjs_291b42ca (p2, c1, k60).
+1603220901: Socket error on client mqttjs_291b42ca, disconnecting.
+1603220948: New connection from 172.25.0.4 on port 8883.
+1603220948: New client connected from 172.25.0.4 as mqttjs_52b99825 (p2, c1, k60).
+1603221421: Socket error on client mqttjs_52b99825, disconnecting.
+1603221468: New connection from 172.25.0.4 on port 8883.
+1603221468: New client connected from 172.25.0.4 as mqttjs_cb40404c (p2, c1, k60).
+1603221495: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603221507: Socket error on client mqttjs_cb40404c, disconnecting.
+1603221556: New connection from 172.25.0.4 on port 8883.
+1603221556: New client connected from 172.25.0.4 as mqttjs_4dd2f6c0 (p2, c1, k60).
+1603221696: Socket error on client mqttjs_4dd2f6c0, disconnecting.
+1603221743: New connection from 172.25.0.4 on port 8883.
+1603221743: New client connected from 172.25.0.4 as mqttjs_530d89ed (p2, c1, k60).
+1603221856: Socket error on client mqttjs_530d89ed, disconnecting.
+1603221902: New connection from 172.25.0.4 on port 8883.
+1603221902: New client connected from 172.25.0.4 as mqttjs_da832b5d (p2, c1, k60).
+1603221937: Socket error on client mqttjs_da832b5d, disconnecting.
+1603221984: New connection from 172.25.0.4 on port 8883.
+1603221984: New client connected from 172.25.0.4 as mqttjs_6909b33d (p2, c1, k60).
+1603222047: Socket error on client mqttjs_6909b33d, disconnecting.
+1603222096: New connection from 172.25.0.4 on port 8883.
+1603222096: New client connected from 172.25.0.4 as mqttjs_6f5c6ffe (p2, c1, k60).
+1603222163: Socket error on client mqttjs_6f5c6ffe, disconnecting.
+1603222216: New connection from 172.25.0.4 on port 8883.
+1603222216: New client connected from 172.25.0.4 as mqttjs_b3f73a5e (p2, c1, k60).
+1603222242: Socket error on client mqttjs_b3f73a5e, disconnecting.
+1603222292: New connection from 172.25.0.4 on port 8883.
+1603222292: New client connected from 172.25.0.4 as mqttjs_e97600f3 (p2, c1, k60).
+1603222292: Socket error on client mqttjs_e97600f3, disconnecting.
+1603222342: New connection from 172.25.0.4 on port 8883.
+1603222342: New client connected from 172.25.0.4 as mqttjs_89fde28d (p2, c1, k60).
+1603222400: Socket error on client mqttjs_89fde28d, disconnecting.
+1603222449: New connection from 172.25.0.4 on port 8883.
+1603222449: New client connected from 172.25.0.4 as mqttjs_09c0dfe7 (p2, c1, k60).
+1603222491: Socket error on client mqttjs_09c0dfe7, disconnecting.
+1603222540: New connection from 172.25.0.4 on port 8883.
+1603222540: New client connected from 172.25.0.4 as mqttjs_5c60c5f9 (p2, c1, k60).
+1603222608: Socket error on client mqttjs_5c60c5f9, disconnecting.
+1603222656: New connection from 172.25.0.4 on port 8883.
+1603222656: New client connected from 172.25.0.4 as mqttjs_8e534143 (p2, c1, k60).
+1603222711: Socket error on client mqttjs_8e534143, disconnecting.
+1603222760: New connection from 172.25.0.4 on port 8883.
+1603222760: New client connected from 172.25.0.4 as mqttjs_847c742e (p2, c1, k60).
+1603222838: Socket error on client mqttjs_847c742e, disconnecting.
+1603222887: New connection from 172.25.0.4 on port 8883.
+1603222887: New client connected from 172.25.0.4 as mqttjs_3e5f31b9 (p2, c1, k60).
+1603223296: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603225097: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603228165: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603228165: Client mqttjs_3e5f31b9 has exceeded timeout, disconnecting.
+1603229966: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603230748: mosquitto version 1.6.12 starting
+1603230748: Config loaded from /mosquitto/config/mosquitto.conf.
+1603230748: Opening ipv4 listen socket on port 8883.
+1603230748: Opening ipv6 listen socket on port 8883.
+1603230748: mosquitto version 1.6.12 running
+1603230779: New connection from 172.27.0.4 on port 8883.
+1603230779: New client connected from 172.27.0.4 as mqttjs_de172d1c (p2, c1, k60).
+1603230873: Socket error on client mqttjs_de172d1c, disconnecting.
+1603230910: New connection from 172.27.0.4 on port 8883.
+1603230910: New client connected from 172.27.0.4 as mqttjs_a54d1aa0 (p2, c1, k60).
+1603230939: Socket error on client mqttjs_a54d1aa0, disconnecting.
+1603230980: New connection from 172.27.0.4 on port 8883.
+1603230980: New client connected from 172.27.0.4 as mqttjs_208be46e (p2, c1, k60).
+1603231024: Socket error on client mqttjs_208be46e, disconnecting.
+1603231060: New connection from 172.27.0.4 on port 8883.
+1603231060: New client connected from 172.27.0.4 as mqttjs_32942cc8 (p2, c1, k60).
+1603231123: Socket error on client mqttjs_32942cc8, disconnecting.
+1603231166: New connection from 172.27.0.4 on port 8883.
+1603231166: New client connected from 172.27.0.4 as mqttjs_a94fd0d4 (p2, c1, k60).
+1603231188: Socket error on client mqttjs_a94fd0d4, disconnecting.
+1603231225: New connection from 172.27.0.4 on port 8883.
+1603231225: New client connected from 172.27.0.4 as mqttjs_ed5bab19 (p2, c1, k60).
+1603231244: Socket error on client mqttjs_ed5bab19, disconnecting.
+1603231280: New connection from 172.27.0.4 on port 8883.
+1603231280: New client connected from 172.27.0.4 as mqttjs_fc0b2e1e (p2, c1, k60).
+1603231297: Socket error on client mqttjs_fc0b2e1e, disconnecting.
+1603231352: New connection from 172.27.0.4 on port 8883.
+1603231352: New client connected from 172.27.0.4 as mqttjs_267c8465 (p2, c1, k60).
+1603231406: Socket error on client mqttjs_267c8465, disconnecting.
+1603231444: New connection from 172.27.0.4 on port 8883.
+1603231444: New client connected from 172.27.0.4 as mqttjs_7bf4a9fa (p2, c1, k60).
+1603231456: Socket error on client mqttjs_7bf4a9fa, disconnecting.
+1603231494: New connection from 172.27.0.4 on port 8883.
+1603231494: New client connected from 172.27.0.4 as mqttjs_25d288b7 (p2, c1, k60).
+1603231547: Socket error on client mqttjs_25d288b7, disconnecting.
+1603231594: New connection from 172.27.0.4 on port 8883.
+1603231594: New client connected from 172.27.0.4 as mqttjs_b4014edf (p2, c1, k60).
+1603231639: Socket error on client mqttjs_b4014edf, disconnecting.
+1603231675: New connection from 172.27.0.4 on port 8883.
+1603231675: New client connected from 172.27.0.4 as mqttjs_ad9330ef (p2, c1, k60).
+1603231723: Socket error on client mqttjs_ad9330ef, disconnecting.
+1603231761: New connection from 172.27.0.4 on port 8883.
+1603231761: New client connected from 172.27.0.4 as mqttjs_fd4e499a (p2, c1, k60).
+1603231816: Socket error on client mqttjs_fd4e499a, disconnecting.
+1603231852: New connection from 172.27.0.4 on port 8883.
+1603231852: New client connected from 172.27.0.4 as mqttjs_85f0aee9 (p2, c1, k60).
+1603231887: Socket error on client mqttjs_85f0aee9, disconnecting.
+1603231923: New connection from 172.27.0.4 on port 8883.
+1603231923: New client connected from 172.27.0.4 as mqttjs_047b3c6c (p2, c1, k60).
+1603231939: Socket error on client mqttjs_047b3c6c, disconnecting.
+1603231973: New connection from 172.27.0.4 on port 8883.
+1603231973: New client connected from 172.27.0.4 as mqttjs_aa322f77 (p2, c1, k60).
+1603231994: Socket error on client mqttjs_aa322f77, disconnecting.
+1603232027: New connection from 172.27.0.4 on port 8883.
+1603232027: New client connected from 172.27.0.4 as mqttjs_2c07a9ff (p2, c1, k60).
+1603232039: Socket error on client mqttjs_2c07a9ff, disconnecting.
+1603232074: New connection from 172.27.0.4 on port 8883.
+1603232074: New client connected from 172.27.0.4 as mqttjs_6516b998 (p2, c1, k60).
+1603232090: Socket error on client mqttjs_6516b998, disconnecting.
+1603232129: New connection from 172.27.0.4 on port 8883.
+1603232129: New client connected from 172.27.0.4 as mqttjs_f7c5e60d (p2, c1, k60).
+1603232168: Socket error on client mqttjs_f7c5e60d, disconnecting.
+1603232204: New connection from 172.27.0.4 on port 8883.
+1603232204: New client connected from 172.27.0.4 as mqttjs_a293a4cf (p2, c1, k60).
+1603232220: Socket error on client mqttjs_a293a4cf, disconnecting.
+1603232256: New connection from 172.27.0.4 on port 8883.
+1603232256: New client connected from 172.27.0.4 as mqttjs_d7b798c6 (p2, c1, k60).
+1603232285: Socket error on client mqttjs_d7b798c6, disconnecting.
+1603232354: New connection from 172.27.0.4 on port 8883.
+1603232354: New client connected from 172.27.0.4 as mqttjs_d69954c7 (p2, c1, k60).
+1603232363: Socket error on client mqttjs_d69954c7, disconnecting.
+1603232399: New connection from 172.27.0.4 on port 8883.
+1603232399: New client connected from 172.27.0.4 as mqttjs_9b337ba9 (p2, c1, k60).
+1603232417: Socket error on client mqttjs_9b337ba9, disconnecting.
+1603232455: New connection from 172.27.0.4 on port 8883.
+1603232455: New client connected from 172.27.0.4 as mqttjs_62778a00 (p2, c1, k60).
+1603232496: Socket error on client mqttjs_62778a00, disconnecting.
+1603232536: New connection from 172.27.0.4 on port 8883.
+1603232536: New client connected from 172.27.0.4 as mqttjs_6f3f7f79 (p2, c1, k60).
+1603232549: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603232550: Socket error on client mqttjs_6f3f7f79, disconnecting.
+1603232589: New connection from 172.27.0.4 on port 8883.
+1603232589: New client connected from 172.27.0.4 as mqttjs_c3b21974 (p2, c1, k60).
+1603232604: Socket error on client mqttjs_c3b21974, disconnecting.
+1603232640: New connection from 172.27.0.4 on port 8883.
+1603232640: New client connected from 172.27.0.4 as mqttjs_5d19833f (p2, c1, k60).
+1603232657: Socket error on client mqttjs_5d19833f, disconnecting.
+1603232693: New connection from 172.27.0.4 on port 8883.
+1603232693: New client connected from 172.27.0.4 as mqttjs_2a0e0cdd (p2, c1, k60).
+1603232716: Socket error on client mqttjs_2a0e0cdd, disconnecting.
+1603232754: New connection from 172.27.0.4 on port 8883.
+1603232754: New client connected from 172.27.0.4 as mqttjs_1f149cd4 (p2, c1, k60).
+1603232764: Socket error on client mqttjs_1f149cd4, disconnecting.
+1603232804: New connection from 172.27.0.4 on port 8883.
+1603232804: New client connected from 172.27.0.4 as mqttjs_17ab1d03 (p2, c1, k60).
+1603232831: Socket error on client mqttjs_17ab1d03, disconnecting.
+1603232876: New connection from 172.27.0.4 on port 8883.
+1603232876: New client connected from 172.27.0.4 as mqttjs_1262502c (p2, c1, k60).
+1603232948: Socket error on client mqttjs_1262502c, disconnecting.
+1603233350: New connection from 172.27.0.4 on port 8883.
+1603233350: New client connected from 172.27.0.4 as mqttjs_1ebb0932 (p2, c1, k60).
+1603233644: Socket error on client mqttjs_1ebb0932, disconnecting.
+1603233693: New connection from 172.27.0.4 on port 8883.
+1603233693: New client connected from 172.27.0.4 as mqttjs_5549294c (p2, c1, k60).
+1603233996: Socket error on client mqttjs_5549294c, disconnecting.
+1603234032: New connection from 172.27.0.4 on port 8883.
+1603234032: New client connected from 172.27.0.4 as mqttjs_7725465c (p2, c1, k60).
+1603234061: Socket error on client mqttjs_7725465c, disconnecting.
+1603234099: New connection from 172.27.0.4 on port 8883.
+1603234099: New client connected from 172.27.0.4 as mqttjs_6f8b0ab2 (p2, c1, k60).
+1603234115: Socket error on client mqttjs_6f8b0ab2, disconnecting.
+1603234155: New connection from 172.27.0.4 on port 8883.
+1603234155: New client connected from 172.27.0.4 as mqttjs_54907a85 (p2, c1, k60).
+1603234217: Socket error on client mqttjs_54907a85, disconnecting.
+1603234257: New connection from 172.27.0.4 on port 8883.
+1603234257: New client connected from 172.27.0.4 as mqttjs_fc2cc4af (p2, c1, k60).
+1603234271: Socket error on client mqttjs_fc2cc4af, disconnecting.
+1603234313: New connection from 172.27.0.4 on port 8883.
+1603234313: New client connected from 172.27.0.4 as mqttjs_91b2ad27 (p2, c1, k60).
+1603234340: Socket error on client mqttjs_91b2ad27, disconnecting.
+1603234350: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603234413: mosquitto version 1.6.12 terminating
+1603234413: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603234535: mosquitto version 1.6.12 starting
+1603234535: Config loaded from /mosquitto/config/mosquitto.conf.
+1603234535: Opening ipv4 listen socket on port 8883.
+1603234535: Opening ipv6 listen socket on port 8883.
+1603234535: mosquitto version 1.6.12 running
+1603234676: mosquitto version 1.6.12 starting
+1603234676: Config loaded from /mosquitto/config/mosquitto.conf.
+1603234676: Opening ipv4 listen socket on port 8883.
+1603234676: Opening ipv6 listen socket on port 8883.
+1603234676: mosquitto version 1.6.12 running
+1603234772: mosquitto version 1.6.12 starting
+1603234772: Config loaded from /mosquitto/config/mosquitto.conf.
+1603234772: Opening ipv4 listen socket on port 8883.
+1603234772: Opening ipv6 listen socket on port 8883.
+1603234772: mosquitto version 1.6.12 running
+1603234898: mosquitto version 1.6.12 starting
+1603234898: Config loaded from /mosquitto/config/mosquitto.conf.
+1603234898: Opening ipv4 listen socket on port 8883.
+1603234898: Opening ipv6 listen socket on port 8883.
+1603234898: mosquitto version 1.6.12 running
+1603234932: New connection from 192.168.80.4 on port 8883.
+1603234932: New client connected from 192.168.80.4 as mqttjs_45f464a5 (p2, c1, k60).
+1603234996: Socket error on client mqttjs_45f464a5, disconnecting.
+1603235036: New connection from 192.168.80.4 on port 8883.
+1603235036: New client connected from 192.168.80.4 as mqttjs_711ef884 (p2, c1, k60).
+1603235064: Socket error on client mqttjs_711ef884, disconnecting.
+1603235105: New connection from 192.168.80.4 on port 8883.
+1603235105: New client connected from 192.168.80.4 as mqttjs_95a42d9b (p2, c1, k60).
+1603235128: Socket error on client mqttjs_95a42d9b, disconnecting.
+1603235180: New connection from 192.168.80.4 on port 8883.
+1603235180: New client connected from 192.168.80.4 as mqttjs_1dc948c6 (p2, c1, k60).
+1603235192: Socket error on client mqttjs_1dc948c6, disconnecting.
+1603235236: New connection from 192.168.80.4 on port 8883.
+1603235236: New client connected from 192.168.80.4 as mqttjs_fe263bb2 (p2, c1, k60).
+1603235241: Socket error on client mqttjs_fe263bb2, disconnecting.
+1603235281: New connection from 192.168.80.4 on port 8883.
+1603235281: New client connected from 192.168.80.4 as mqttjs_f4fc254b (p2, c1, k60).
+1603235328: Socket error on client mqttjs_f4fc254b, disconnecting.
+1603235376: New connection from 192.168.80.4 on port 8883.
+1603235376: New client connected from 192.168.80.4 as mqttjs_cc9bb9cd (p2, c1, k60).
+1603235424: Socket error on client mqttjs_cc9bb9cd, disconnecting.
+1603235470: New connection from 192.168.80.4 on port 8883.
+1603235470: New client connected from 192.168.80.4 as mqttjs_c6f3fa7d (p2, c1, k60).
+1603235556: Socket error on client mqttjs_c6f3fa7d, disconnecting.
+1603235616: New connection from 192.168.80.4 on port 8883.
+1603235616: New client connected from 192.168.80.4 as mqttjs_2845ea4e (p2, c1, k60).
+1603297137: mosquitto version 1.6.12 starting
+1603297137: Config loaded from /mosquitto/config/mosquitto.conf.
+1603297137: Opening ipv4 listen socket on port 8883.
+1603297137: Opening ipv6 listen socket on port 8883.
+1603297137: mosquitto version 1.6.12 running
+1603297178: New connection from 192.168.80.3 on port 8883.
+1603297178: New client connected from 192.168.80.3 as mqttjs_13e784bc (p2, c1, k60).
+1603297249: Socket error on client mqttjs_13e784bc, disconnecting.
+1603297250: mosquitto version 1.6.12 terminating
+1603297250: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603297338: mosquitto version 1.6.12 starting
+1603297338: Config loaded from /mosquitto/config/mosquitto.conf.
+1603297338: Opening ipv4 listen socket on port 8883.
+1603297338: Opening ipv6 listen socket on port 8883.
+1603297338: mosquitto version 1.6.12 running
+1603297364: New connection from 172.19.0.4 on port 8883.
+1603297364: New client connected from 172.19.0.4 as mqttjs_d7e5a38e (p2, c1, k60).
+1603297458: Socket error on client mqttjs_d7e5a38e, disconnecting.
+1603297489: New connection from 172.19.0.4 on port 8883.
+1603297489: New client connected from 172.19.0.4 as mqttjs_946d801a (p2, c1, k60).
+1603297544: Socket error on client mqttjs_946d801a, disconnecting.
+1603297574: New connection from 172.19.0.4 on port 8883.
+1603297574: New client connected from 172.19.0.4 as mqttjs_bbddf63b (p2, c1, k60).
+1603297607: Socket error on client mqttjs_bbddf63b, disconnecting.
+1603297641: New connection from 172.19.0.4 on port 8883.
+1603297641: New client connected from 172.19.0.4 as mqttjs_47f3c5b6 (p2, c1, k60).
+1603297644: Socket error on client mqttjs_47f3c5b6, disconnecting.
+1603297675: New connection from 172.19.0.4 on port 8883.
+1603297675: New client connected from 172.19.0.4 as mqttjs_4b19b6c7 (p2, c1, k60).
+1603297827: Socket error on client mqttjs_4b19b6c7, disconnecting.
+1603297890: New connection from 172.19.0.4 on port 8883.
+1603297890: New client connected from 172.19.0.4 as mqttjs_ba4fbe96 (p2, c1, k60).
+1603297925: Socket error on client mqttjs_ba4fbe96, disconnecting.
+1603297981: New connection from 172.19.0.4 on port 8883.
+1603297981: New client connected from 172.19.0.4 as mqttjs_049104ac (p2, c1, k60).
+1603297996: Socket error on client mqttjs_049104ac, disconnecting.
+1603298057: New connection from 172.19.0.4 on port 8883.
+1603298057: New client connected from 172.19.0.4 as mqttjs_63988865 (p2, c1, k60).
+1603298372: Socket error on client mqttjs_63988865, disconnecting.
+1603298404: New connection from 172.19.0.4 on port 8883.
+1603298404: New client connected from 172.19.0.4 as mqttjs_19238355 (p2, c1, k60).
+1603298512: Socket error on client mqttjs_19238355, disconnecting.
+1603298544: New connection from 172.19.0.4 on port 8883.
+1603298544: New client connected from 172.19.0.4 as mqttjs_774b158d (p2, c1, k60).
+1603298547: Socket error on client mqttjs_774b158d, disconnecting.
+1603298655: mosquitto version 1.6.12 starting
+1603298655: Config loaded from /mosquitto/config/mosquitto.conf.
+1603298655: Opening ipv4 listen socket on port 8883.
+1603298655: Opening ipv6 listen socket on port 8883.
+1603298655: mosquitto version 1.6.12 running
+1603298684: New connection from 172.21.0.4 on port 8883.
+1603298684: New client connected from 172.21.0.4 as mqttjs_49356a82 (p2, c1, k60).
+1603298762: Socket error on client mqttjs_49356a82, disconnecting.
+1603298911: New connection from 172.21.0.4 on port 8883.
+1603298911: New client connected from 172.21.0.4 as mqttjs_f3ea54cd (p2, c1, k60).
+1603298923: Socket error on client mqttjs_f3ea54cd, disconnecting.
+1603298978: New connection from 172.21.0.4 on port 8883.
+1603298978: New client connected from 172.21.0.4 as mqttjs_14bdccc4 (p2, c1, k60).
+1603299007: Socket error on client mqttjs_14bdccc4, disconnecting.
+1603299036: New connection from 172.21.0.4 on port 8883.
+1603299036: New client connected from 172.21.0.4 as mqttjs_01d1d08e (p2, c1, k60).
+1603299042: Socket error on client mqttjs_01d1d08e, disconnecting.
+1603299142: New connection from 172.21.0.4 on port 8883.
+1603299142: New client connected from 172.21.0.4 as mqttjs_38320697 (p2, c1, k60).
+1603299236: mosquitto version 1.6.12 starting
+1603299236: Config loaded from /mosquitto/config/mosquitto.conf.
+1603299236: Opening ipv4 listen socket on port 8883.
+1603299236: Opening ipv6 listen socket on port 8883.
+1603299236: mosquitto version 1.6.12 running
+1603299263: New connection from 172.23.0.4 on port 8883.
+1603299263: New client connected from 172.23.0.4 as mqttjs_42c8661d (p2, c1, k60).
+1603299269: Socket error on client mqttjs_42c8661d, disconnecting.
+1603299282: mosquitto version 1.6.12 terminating
+1603299282: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603299336: mosquitto version 1.6.12 starting
+1603299336: Config loaded from /mosquitto/config/mosquitto.conf.
+1603299336: Opening ipv4 listen socket on port 8883.
+1603299336: Opening ipv6 listen socket on port 8883.
+1603299336: mosquitto version 1.6.12 running
+1603299397: New connection from 172.25.0.4 on port 8883.
+1603299397: New client connected from 172.25.0.4 as mqttjs_b452ffaf (p2, c1, k60).
+1603299512: mosquitto version 1.6.12 starting
+1603299512: Config loaded from /mosquitto/config/mosquitto.conf.
+1603299512: Opening ipv4 listen socket on port 8883.
+1603299512: Opening ipv6 listen socket on port 8883.
+1603299512: mosquitto version 1.6.12 running
+1603299539: New connection from 172.27.0.4 on port 8883.
+1603299539: New client connected from 172.27.0.4 as mqttjs_616bf80e (p2, c1, k60).
+1603299646: mosquitto version 1.6.12 starting
+1603299646: Config loaded from /mosquitto/config/mosquitto.conf.
+1603299646: Opening ipv4 listen socket on port 8883.
+1603299646: Opening ipv6 listen socket on port 8883.
+1603299646: mosquitto version 1.6.12 running
+1603299673: New connection from 172.29.0.4 on port 8883.
+1603299673: New client connected from 172.29.0.4 as mqttjs_570d8fb9 (p2, c1, k60).
+1603299797: mosquitto version 1.6.12 starting
+1603299797: Config loaded from /mosquitto/config/mosquitto.conf.
+1603299797: Opening ipv4 listen socket on port 8883.
+1603299797: Opening ipv6 listen socket on port 8883.
+1603299797: mosquitto version 1.6.12 running
+1603299824: New connection from 172.31.0.4 on port 8883.
+1603299824: New client connected from 172.31.0.4 as mqttjs_700ae4e0 (p2, c1, k60).
+1603299826: Socket error on client mqttjs_700ae4e0, disconnecting.
+1603299885: New connection from 172.31.0.4 on port 8883.
+1603299885: New client connected from 172.31.0.4 as mqttjs_7416d45b (p2, c1, k60).
+1603299889: Socket error on client mqttjs_7416d45b, disconnecting.
+1603300002: New connection from 172.31.0.4 on port 8883.
+1603300002: New client connected from 172.31.0.4 as mqttjs_2d2641c3 (p2, c1, k60).
+1603300006: Socket error on client mqttjs_2d2641c3, disconnecting.
+1603300330: New connection from 172.31.0.4 on port 8883.
+1603300330: New client connected from 172.31.0.4 as mqttjs_7017a1e4 (p2, c1, k60).
+1603300459: Socket error on client mqttjs_7017a1e4, disconnecting.
+1603300495: New connection from 172.31.0.4 on port 8883.
+1603300495: New client connected from 172.31.0.4 as mqttjs_7ad27d40 (p2, c1, k60).
+1603300908: Socket error on client mqttjs_7ad27d40, disconnecting.
+1603300909: mosquitto version 1.6.12 terminating
+1603300909: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603313445: mosquitto version 1.6.12 starting
+1603313445: Config loaded from /mosquitto/config/mosquitto.conf.
+1603313445: Opening ipv4 listen socket on port 8883.
+1603313445: Opening ipv6 listen socket on port 8883.
+1603313445: mosquitto version 1.6.12 running
+1603313472: New connection from 192.168.80.4 on port 8883.
+1603313472: New client connected from 192.168.80.4 as mqttjs_5822fcb4 (p2, c1, k60).
+1603313515: Socket error on client mqttjs_5822fcb4, disconnecting.
+1603313547: New connection from 192.168.80.4 on port 8883.
+1603313547: New client connected from 192.168.80.4 as mqttjs_1e022e0b (p2, c1, k60).
+1603313706: mosquitto version 1.6.12 starting
+1603313706: Config loaded from /mosquitto/config/mosquitto.conf.
+1603313706: Opening ipv4 listen socket on port 8883.
+1603313706: Opening ipv6 listen socket on port 8883.
+1603313706: mosquitto version 1.6.12 running
+1603313737: New connection from 192.168.112.4 on port 8883.
+1603313737: New client connected from 192.168.112.4 as mqttjs_4a283277 (p2, c1, k60).
+1603313750: Socket error on client mqttjs_4a283277, disconnecting.
+1603313786: New connection from 192.168.112.4 on port 8883.
+1603313786: New client connected from 192.168.112.4 as mqttjs_ea54f5ab (p2, c1, k60).
+1603314959: Socket error on client mqttjs_ea54f5ab, disconnecting.
+1603314972: mosquitto version 1.6.12 terminating
+1603314972: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603330160: mosquitto version 1.6.12 starting
+1603330160: Config loaded from /mosquitto/config/mosquitto.conf.
+1603330160: Opening ipv4 listen socket on port 8883.
+1603330160: Opening ipv6 listen socket on port 8883.
+1603330160: mosquitto version 1.6.12 running
+1603330198: New connection from 192.168.112.4 on port 8883.
+1603330198: New client connected from 192.168.112.4 as mqttjs_459def64 (p2, c1, k60).
+1603332238: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603334038: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603355825: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603381839: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603383640: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603385441: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603387242: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603389043: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603390844: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603392645: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603394446: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603396247: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603398048: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603400068: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603400068: Client mqttjs_459def64 has exceeded timeout, disconnecting.
+1603401868: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603403669: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603405470: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603407271: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603409072: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603410873: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603412674: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603414475: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603416276: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603418077: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603419878: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603421679: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603423480: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603434003: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603435804: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603437605: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603439406: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603441207: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603443008: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603444809: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603446610: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603448411: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603450212: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603452013: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603453814: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603455615: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603457416: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603459217: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603461018: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603462819: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603464620: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603466421: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603468222: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603470023: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603471824: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603473625: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603475426: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603477227: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603479028: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603480829: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603482630: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603484431: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603486447: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603488247: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603490048: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603501336: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603503137: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603507398: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603510998: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603514598: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603517731: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603519531: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603521332: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603523133: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603524934: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603526735: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603528536: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603532301: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603535901: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603539502: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603543102: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603546703: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603550307: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603553903: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603555703: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603566104: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603567905: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603569706: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603571507: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603573308: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603575109: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603576910: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603578711: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603580512: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603582313: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603584114: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603585915: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603587716: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603589517: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603591318: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603593119: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603594920: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603596721: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603598522: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603603336: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603606937: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603610567: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603614167: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603621339: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603624939: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603628540: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603632139: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603635739: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603637650: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603639451: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603641252: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603643992: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603645793: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603647594: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603649395: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603651196: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603652997: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603654798: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603656599: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603658400: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603660201: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603662002: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603663803: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603665604: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603667405: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603669206: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603671007: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603672808: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603674609: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603677030: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603678831: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603680632: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603682433: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603684234: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603687788: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603689588: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603691389: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603693190: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603694991: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603696792: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603698593: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603701128: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603704728: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603706811: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603709799: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603711599: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603713424: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603716065: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603719666: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603723263: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603726852: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603728712: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603732583: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603734384: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603736185: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603737986: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603740815: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603750032: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603753112: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603754912: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603755301: mosquitto version 1.6.12 terminating
+1603755301: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603755382: mosquitto version 1.6.12 starting
+1603755382: Config loaded from /mosquitto/config/mosquitto.conf.
+1603755382: Opening ipv4 listen socket on port 8883.
+1603755382: Opening ipv6 listen socket on port 8883.
+1603755382: mosquitto version 1.6.12 running
+1603755430: New connection from 172.19.0.4 on port 8883.
+1603755430: New client connected from 172.19.0.4 as mqttjs_042bd2ec (p2, c1, k60).
+1603757182: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603758904: Socket error on client mqttjs_042bd2ec, disconnecting.
+1603758973: New connection from 172.19.0.4 on port 8883.
+1603758973: New client connected from 172.19.0.4 as mqttjs_253944c9 (p2, c1, k60).
+1603758983: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603759060: Socket error on client mqttjs_253944c9, disconnecting.
+1603759172: New connection from 172.19.0.4 on port 8883.
+1603759172: New client connected from 172.19.0.4 as mqttjs_36e6be3f (p2, c1, k60).
+1603759227: Socket error on client mqttjs_36e6be3f, disconnecting.
+1603759304: New connection from 172.19.0.4 on port 8883.
+1603759304: New client connected from 172.19.0.4 as mqttjs_43598d8e (p2, c1, k60).
+1603759543: Socket error on client mqttjs_43598d8e, disconnecting.
+1603760155: New connection from 172.19.0.4 on port 8883.
+1603760155: New client connected from 172.19.0.4 as mqttjs_f6b74aeb (p2, c1, k60).
+1603760304: Socket error on client mqttjs_f6b74aeb, disconnecting.
+1603760715: New connection from 172.19.0.4 on port 8883.
+1603760715: New client connected from 172.19.0.4 as mqttjs_f84c798e (p2, c1, k60).
+1603760784: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603760965: Socket error on client mqttjs_f84c798e, disconnecting.
+1603761061: New connection from 172.19.0.4 on port 8883.
+1603761061: New client connected from 172.19.0.4 as mqttjs_65340096 (p2, c1, k60).
+1603761094: Socket error on client mqttjs_65340096, disconnecting.
+1603761154: New connection from 172.19.0.4 on port 8883.
+1603761154: New client connected from 172.19.0.4 as mqttjs_5408395d (p2, c1, k60).
+1603761276: Socket error on client mqttjs_5408395d, disconnecting.
+1603761341: New connection from 172.19.0.4 on port 8883.
+1603761341: New client connected from 172.19.0.4 as mqttjs_c585adc2 (p2, c1, k60).
+1603761377: Socket error on client mqttjs_c585adc2, disconnecting.
+1603761442: New connection from 172.19.0.4 on port 8883.
+1603761442: New client connected from 172.19.0.4 as mqttjs_8d121150 (p2, c1, k60).
+1603761485: Socket error on client mqttjs_8d121150, disconnecting.
+1603761607: New connection from 172.19.0.4 on port 8883.
+1603761607: New client connected from 172.19.0.4 as mqttjs_a78c6ced (p2, c1, k60).
+1603761704: Socket error on client mqttjs_a78c6ced, disconnecting.
+1603761761: New connection from 172.19.0.4 on port 8883.
+1603761761: New client connected from 172.19.0.4 as mqttjs_980e465a (p2, c1, k60).
+1603761853: Socket error on client mqttjs_980e465a, disconnecting.
+1603762069: New connection from 172.19.0.4 on port 8883.
+1603762069: New client connected from 172.19.0.4 as mqttjs_f6425c74 (p2, c1, k60).
+1603762126: Socket error on client mqttjs_f6425c74, disconnecting.
+1603762195: New connection from 172.19.0.4 on port 8883.
+1603762195: New client connected from 172.19.0.4 as mqttjs_7ecca117 (p2, c1, k60).
+1603762278: Socket error on client mqttjs_7ecca117, disconnecting.
+1603762339: New connection from 172.19.0.4 on port 8883.
+1603762339: New client connected from 172.19.0.4 as mqttjs_396e5a7b (p2, c1, k60).
+1603762585: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603762589: Socket error on client mqttjs_396e5a7b, disconnecting.
+1603762652: New connection from 172.19.0.4 on port 8883.
+1603762652: New client connected from 172.19.0.4 as mqttjs_c64ed22e (p2, c1, k60).
+1603762830: Socket error on client mqttjs_c64ed22e, disconnecting.
+1603762881: New connection from 172.19.0.4 on port 8883.
+1603762881: New client connected from 172.19.0.4 as mqttjs_75a35fef (p2, c1, k60).
+1603763048: Socket error on client mqttjs_75a35fef, disconnecting.
+1603763096: New connection from 172.19.0.4 on port 8883.
+1603763096: New client connected from 172.19.0.4 as mqttjs_c3f7e7a6 (p2, c1, k60).
+1603763214: Socket error on client mqttjs_c3f7e7a6, disconnecting.
+1603763266: New connection from 172.19.0.4 on port 8883.
+1603763266: New client connected from 172.19.0.4 as mqttjs_7a75a824 (p2, c1, k60).
+1603763394: Socket error on client mqttjs_7a75a824, disconnecting.
+1603763447: New connection from 172.19.0.4 on port 8883.
+1603763447: New client connected from 172.19.0.4 as mqttjs_e0ae1ffc (p2, c1, k60).
+1603763465: Socket error on client mqttjs_e0ae1ffc, disconnecting.
+1603763515: New connection from 172.19.0.4 on port 8883.
+1603763515: New client connected from 172.19.0.4 as mqttjs_28904780 (p2, c1, k60).
+1603763621: Socket error on client mqttjs_28904780, disconnecting.
+1603763670: New connection from 172.19.0.4 on port 8883.
+1603763670: New client connected from 172.19.0.4 as mqttjs_b05b827c (p2, c1, k60).
+1603763747: Socket error on client mqttjs_b05b827c, disconnecting.
+1603763810: New connection from 172.19.0.4 on port 8883.
+1603763810: New client connected from 172.19.0.4 as mqttjs_346ee152 (p2, c1, k60).
+1603763892: Socket error on client mqttjs_346ee152, disconnecting.
+1603763953: New connection from 172.19.0.4 on port 8883.
+1603763953: New client connected from 172.19.0.4 as mqttjs_44713ca2 (p2, c1, k60).
+1603764334: Socket error on client mqttjs_44713ca2, disconnecting.
+1603764384: New connection from 172.19.0.4 on port 8883.
+1603764384: New client connected from 172.19.0.4 as mqttjs_1dace6cf (p2, c1, k60).
+1603764386: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603764535: Socket error on client mqttjs_1dace6cf, disconnecting.
+1603764576: New connection from 172.19.0.4 on port 8883.
+1603764576: New client connected from 172.19.0.4 as mqttjs_b6a04935 (p2, c1, k60).
+1603764611: Socket error on client mqttjs_b6a04935, disconnecting.
+1603764654: New connection from 172.19.0.4 on port 8883.
+1603764654: New client connected from 172.19.0.4 as mqttjs_5eb887cd (p2, c1, k60).
+1603766187: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603767169: Client mqttjs_5eb887cd has exceeded timeout, disconnecting.
+1603767397: New connection from 172.19.0.4 on port 8883.
+1603767397: New client connected from 172.19.0.4 as mqttjs_80aebffc (p2, c1, k60).
+1603767988: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603768106: Socket error on client mqttjs_80aebffc, disconnecting.
+1603768240: New connection from 172.19.0.4 on port 8883.
+1603768240: New client connected from 172.19.0.4 as mqttjs_8db84161 (p2, c1, k60).
+1603768433: Socket error on client mqttjs_8db84161, disconnecting.
+1603768478: New connection from 172.19.0.4 on port 8883.
+1603768478: New client connected from 172.19.0.4 as mqttjs_c413199a (p2, c1, k60).
+1603768867: Socket error on client mqttjs_c413199a, disconnecting.
+1603769052: mosquitto version 1.6.12 starting
+1603769052: Config loaded from /mosquitto/config/mosquitto.conf.
+1603769052: Opening ipv4 listen socket on port 8883.
+1603769052: Opening ipv6 listen socket on port 8883.
+1603769052: mosquitto version 1.6.12 running
+1603769129: mosquitto version 1.6.12 terminating
+1603769129: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603769206: mosquitto version 1.6.12 starting
+1603769206: Config loaded from /mosquitto/config/mosquitto.conf.
+1603769206: Opening ipv4 listen socket on port 8883.
+1603769206: Opening ipv6 listen socket on port 8883.
+1603769206: mosquitto version 1.6.12 running
+1603769239: New connection from 172.23.0.4 on port 8883.
+1603769239: New client connected from 172.23.0.4 as mqttjs_f9350b3e (p2, c1, k60).
+1603769360: Socket error on client mqttjs_f9350b3e, disconnecting.
+1603769404: New connection from 172.23.0.4 on port 8883.
+1603769404: New client connected from 172.23.0.4 as mqttjs_f2ccdb4d (p2, c1, k60).
+1603770907: Socket error on client mqttjs_f2ccdb4d, disconnecting.
+1603771007: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603771041: New connection from 172.23.0.4 on port 8883.
+1603771041: New client connected from 172.23.0.4 as mqttjs_e7a19110 (p2, c1, k60).
+1603771285: Socket error on client mqttjs_e7a19110, disconnecting.
+1603771346: New connection from 172.23.0.4 on port 8883.
+1603771346: New client connected from 172.23.0.4 as mqttjs_768a8d81 (p2, c1, k60).
+1603771350: Socket error on client mqttjs_768a8d81, disconnecting.
+1603771412: New connection from 172.23.0.4 on port 8883.
+1603771412: New client connected from 172.23.0.4 as mqttjs_a2639621 (p2, c1, k60).
+1603771539: Socket error on client mqttjs_a2639621, disconnecting.
+1603771698: New connection from 172.23.0.4 on port 8883.
+1603771698: New client connected from 172.23.0.4 as mqttjs_ef26f638 (p2, c1, k60).
+1603772457: mosquitto version 1.6.12 starting
+1603772457: Config loaded from /mosquitto/config/mosquitto.conf.
+1603772457: Opening ipv4 listen socket on port 8883.
+1603772457: Opening ipv6 listen socket on port 8883.
+1603772457: mosquitto version 1.6.12 running
+1603772501: New connection from 172.25.0.4 on port 8883.
+1603772501: New client connected from 172.25.0.4 as mqttjs_ecd3cf22 (p2, c1, k60).
+1603772586: Socket error on client mqttjs_ecd3cf22, disconnecting.
+1603772655: New connection from 172.25.0.4 on port 8883.
+1603772655: New client connected from 172.25.0.4 as mqttjs_09af0628 (p2, c1, k60).
+1603773200: Socket error on client mqttjs_09af0628, disconnecting.
+1603777529: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603781129: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603782930: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603786890: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1603789927: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604210753: mosquitto version 1.6.12 starting
+1604210753: Config loaded from /mosquitto/config/mosquitto.conf.
+1604210753: Opening ipv4 listen socket on port 8883.
+1604210753: Opening ipv6 listen socket on port 8883.
+1604210753: mosquitto version 1.6.12 running
+1604212553: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604214354: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604216155: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604217956: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604219757: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604221558: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604223359: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604225160: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604226961: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604228762: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604230563: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604232364: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604234165: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604235966: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604237767: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604239568: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604241369: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604243170: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604244971: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604246772: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604248573: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604250374: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604252175: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604253157: mosquitto version 1.6.12 terminating
+1604253157: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604253256: mosquitto version 1.6.12 starting
+1604253256: Config loaded from /mosquitto/config/mosquitto.conf.
+1604253256: Opening ipv4 listen socket on port 8883.
+1604253256: Opening ipv6 listen socket on port 8883.
+1604253256: mosquitto version 1.6.12 running
+1604255265: mosquitto version 1.6.12 starting
+1604255265: Config loaded from /mosquitto/config/mosquitto.conf.
+1604255265: Opening ipv4 listen socket on port 8883.
+1604255265: Opening ipv6 listen socket on port 8883.
+1604255265: mosquitto version 1.6.12 running
+1604255953: mosquitto version 1.6.12 starting
+1604255953: Config loaded from /mosquitto/config/mosquitto.conf.
+1604255953: Opening ipv4 listen socket on port 8883.
+1604255953: Opening ipv6 listen socket on port 8883.
+1604255953: mosquitto version 1.6.12 running
+1604256210: mosquitto version 1.6.12 starting
+1604256210: Config loaded from /mosquitto/config/mosquitto.conf.
+1604256210: Opening ipv4 listen socket on port 8883.
+1604256210: Opening ipv6 listen socket on port 8883.
+1604256210: mosquitto version 1.6.12 running
+1604257221: mosquitto version 1.6.12 starting
+1604257221: Config loaded from /mosquitto/config/mosquitto.conf.
+1604257221: Opening ipv4 listen socket on port 8883.
+1604257221: Opening ipv6 listen socket on port 8883.
+1604257221: mosquitto version 1.6.12 running
+1604259273: mosquitto version 1.6.12 starting
+1604259273: Config loaded from /mosquitto/config/mosquitto.conf.
+1604259273: Opening ipv4 listen socket on port 8883.
+1604259273: Opening ipv6 listen socket on port 8883.
+1604259273: mosquitto version 1.6.12 running
+1604259536: mosquitto version 1.6.12 starting
+1604259536: Config loaded from /mosquitto/config/mosquitto.conf.
+1604259536: Opening ipv4 listen socket on port 8883.
+1604259536: Opening ipv6 listen socket on port 8883.
+1604259536: mosquitto version 1.6.12 running
+1604259611: mosquitto version 1.6.12 starting
+1604259611: Config loaded from /mosquitto/config/mosquitto.conf.
+1604259611: Opening ipv4 listen socket on port 8883.
+1604259611: Opening ipv6 listen socket on port 8883.
+1604259611: mosquitto version 1.6.12 running
+1604259833: mosquitto version 1.6.12 starting
+1604259833: Config loaded from /mosquitto/config/mosquitto.conf.
+1604259833: Opening ipv4 listen socket on port 8883.
+1604259833: Opening ipv6 listen socket on port 8883.
+1604259833: mosquitto version 1.6.12 running
+1604260575: mosquitto version 1.6.12 starting
+1604260575: Config loaded from /mosquitto/config/mosquitto.conf.
+1604260575: Opening ipv4 listen socket on port 8883.
+1604260575: Opening ipv6 listen socket on port 8883.
+1604260575: mosquitto version 1.6.12 running
+1604260870: mosquitto version 1.6.12 starting
+1604260870: Config loaded from /mosquitto/config/mosquitto.conf.
+1604260870: Opening ipv4 listen socket on port 8883.
+1604260870: Opening ipv6 listen socket on port 8883.
+1604260870: mosquitto version 1.6.12 running
+1604262670: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604264471: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604266272: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604268073: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604269874: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604271675: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604273476: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604273565: New connection from 192.168.144.4 on port 8883.
+1604273565: New client connected from 192.168.144.4 as mqttjs_881a0f18 (p2, c1, k60).
+1604275277: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604276286: Socket error on client mqttjs_881a0f18, disconnecting.
+1604276287: mosquitto version 1.6.12 terminating
+1604276287: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604276759: mosquitto version 1.6.12 starting
+1604276759: Config loaded from /mosquitto/config/mosquitto.conf.
+1604276759: Opening ipv4 listen socket on port 8883.
+1604276759: Opening ipv6 listen socket on port 8883.
+1604276759: mosquitto version 1.6.12 running
+1604276765: New connection from 192.168.176.4 on port 8883.
+1604276765: New client connected from 192.168.176.4 as mqttjs_cb23b1b8 (p2, c1, k60).
+1604277218: Socket error on client mqttjs_cb23b1b8, disconnecting.
+1604277218: mosquitto version 1.6.12 terminating
+1604277218: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604277295: mosquitto version 1.6.12 starting
+1604277295: Config loaded from /mosquitto/config/mosquitto.conf.
+1604277295: Opening ipv4 listen socket on port 8883.
+1604277295: Opening ipv6 listen socket on port 8883.
+1604277295: mosquitto version 1.6.12 running
+1604277301: New connection from 192.168.208.4 on port 8883.
+1604277301: New client connected from 192.168.208.4 as mqttjs_5e7c1da8 (p2, c1, k60).
+1604277321: Socket error on client mqttjs_5e7c1da8, disconnecting.
+1604277322: mosquitto version 1.6.12 terminating
+1604277322: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604277405: mosquitto version 1.6.12 starting
+1604277405: Config loaded from /mosquitto/config/mosquitto.conf.
+1604277405: Opening ipv4 listen socket on port 8883.
+1604277405: Opening ipv6 listen socket on port 8883.
+1604277405: mosquitto version 1.6.12 running
+1604277412: New connection from 192.168.240.4 on port 8883.
+1604277412: New client connected from 192.168.240.4 as mqttjs_7ea2357d (p2, c1, k60).
+1604277596: mosquitto version 1.6.12 starting
+1604277596: Config loaded from /mosquitto/config/mosquitto.conf.
+1604277596: Opening ipv4 listen socket on port 8883.
+1604277596: Opening ipv6 listen socket on port 8883.
+1604277596: mosquitto version 1.6.12 running
+1604277601: New connection from 172.19.0.4 on port 8883.
+1604277601: New client connected from 172.19.0.4 as mqttjs_a641c7bc (p2, c1, k60).
+1604279396: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604281197: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604282998: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604284799: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604349659: mosquitto version 1.6.12 starting
+1604349659: Config loaded from /mosquitto/config/mosquitto.conf.
+1604349659: Opening ipv4 listen socket on port 8883.
+1604349659: Opening ipv6 listen socket on port 8883.
+1604349659: mosquitto version 1.6.12 running
+1604349667: New connection from 172.21.0.4 on port 8883.
+1604349667: New client connected from 172.21.0.4 as mqttjs_e0b06220 (p2, c1, k60).
+1604351459: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604352779: mosquitto version 1.6.12 starting
+1604352779: Config loaded from /mosquitto/config/mosquitto.conf.
+1604352779: Opening ipv4 listen socket on port 8883.
+1604352779: Opening ipv6 listen socket on port 8883.
+1604352779: mosquitto version 1.6.12 running
+1604352786: New connection from 172.23.0.4 on port 8883.
+1604352786: New client connected from 172.23.0.4 as mqttjs_46162d92 (p2, c1, k60).
+1604354284: Socket error on client mqttjs_46162d92, disconnecting.
+1604354290: New connection from 172.23.0.4 on port 8883.
+1604354290: New client connected from 172.23.0.4 as mqttjs_5b095635 (p2, c1, k60).
+1604354579: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604355062: Socket error on client mqttjs_5b095635, disconnecting.
+1604355067: New connection from 172.23.0.4 on port 8883.
+1604355067: New client connected from 172.23.0.4 as mqttjs_254663d6 (p2, c1, k60).
+1604355164: Socket error on client mqttjs_254663d6, disconnecting.
+1604355169: New connection from 172.23.0.4 on port 8883.
+1604355169: New client connected from 172.23.0.4 as mqttjs_76be1a8f (p2, c1, k60).
+1604355675: Socket error on client mqttjs_76be1a8f, disconnecting.
+1604355681: New connection from 172.23.0.4 on port 8883.
+1604355681: New client connected from 172.23.0.4 as mqttjs_ed23d92a (p2, c1, k60).
+1604355764: Socket error on client mqttjs_ed23d92a, disconnecting.
+1604355769: New connection from 172.23.0.4 on port 8883.
+1604355769: New client connected from 172.23.0.4 as mqttjs_84cdccf6 (p2, c1, k60).
+1604355822: Socket error on client mqttjs_84cdccf6, disconnecting.
+1604355828: New connection from 172.23.0.4 on port 8883.
+1604355828: New client connected from 172.23.0.4 as mqttjs_f58c93ba (p2, c1, k60).
+1604355876: Socket error on client mqttjs_f58c93ba, disconnecting.
+1604355882: New connection from 172.23.0.4 on port 8883.
+1604355882: New client connected from 172.23.0.4 as mqttjs_8a36fd0c (p2, c1, k60).
+1604356190: mosquitto version 1.6.12 starting
+1604356190: Config loaded from /mosquitto/config/mosquitto.conf.
+1604356190: Opening ipv4 listen socket on port 8883.
+1604356190: Opening ipv6 listen socket on port 8883.
+1604356190: mosquitto version 1.6.12 running
+1604356198: New connection from 172.25.0.4 on port 8883.
+1604356198: New client connected from 172.25.0.4 as mqttjs_528f39e6 (p2, c1, k60).
+1604356858: mosquitto version 1.6.12 starting
+1604356858: Config loaded from /mosquitto/config/mosquitto.conf.
+1604356858: Opening ipv4 listen socket on port 8883.
+1604356858: Opening ipv6 listen socket on port 8883.
+1604356858: mosquitto version 1.6.12 running
+1604356864: New connection from 172.28.0.4 on port 8883.
+1604356864: New client connected from 172.28.0.4 as mqttjs_5beeab92 (p2, c1, k60).
+1604357491: Socket error on client mqttjs_5beeab92, disconnecting.
+1604357496: New connection from 172.28.0.4 on port 8883.
+1604357496: New client connected from 172.28.0.4 as mqttjs_9c093a96 (p2, c1, k60).
+1604357559: Socket error on client mqttjs_9c093a96, disconnecting.
+1604357567: New connection from 172.28.0.4 on port 8883.
+1604357567: New client connected from 172.28.0.4 as mqttjs_6560b33d (p2, c1, k60).
+1604357573: Socket error on client mqttjs_6560b33d, disconnecting.
+1604357580: New connection from 172.28.0.4 on port 8883.
+1604357580: New client connected from 172.28.0.4 as mqttjs_d897c349 (p2, c1, k60).
+1604357620: Socket error on client mqttjs_d897c349, disconnecting.
+1604357626: New connection from 172.28.0.4 on port 8883.
+1604357626: New client connected from 172.28.0.4 as mqttjs_7cf06143 (p2, c1, k60).
+1604357680: Socket error on client mqttjs_7cf06143, disconnecting.
+1604357687: New connection from 172.28.0.4 on port 8883.
+1604357687: New client connected from 172.28.0.4 as mqttjs_b758d294 (p2, c1, k60).
+1604357958: mosquitto version 1.6.12 starting
+1604357958: Config loaded from /mosquitto/config/mosquitto.conf.
+1604357958: Opening ipv4 listen socket on port 8883.
+1604357958: Opening ipv6 listen socket on port 8883.
+1604357958: mosquitto version 1.6.12 running
+1604357977: New connection from 172.30.0.4 on port 8883.
+1604357977: New client connected from 172.30.0.4 as mqttjs_1fa77ae4 (p2, c1, k60).
+1604358837: Socket error on client mqttjs_1fa77ae4, disconnecting.
+1604358847: New connection from 172.30.0.4 on port 8883.
+1604358847: New client connected from 172.30.0.4 as mqttjs_9272e871 (p2, c1, k60).
+1604358905: Socket error on client mqttjs_9272e871, disconnecting.
+1604358912: New connection from 172.30.0.4 on port 8883.
+1604358912: New client connected from 172.30.0.4 as mqttjs_cddacbda (p2, c1, k60).
+1604359462: Socket error on client mqttjs_cddacbda, disconnecting.
+1604359468: New connection from 172.30.0.4 on port 8883.
+1604359468: New client connected from 172.30.0.4 as mqttjs_7befbc6b (p2, c1, k60).
+1604359759: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604359900: Socket error on client mqttjs_7befbc6b, disconnecting.
+1604359908: New connection from 172.30.0.4 on port 8883.
+1604359908: New client connected from 172.30.0.4 as mqttjs_bc43c019 (p2, c1, k60).
+1604359962: Socket error on client mqttjs_bc43c019, disconnecting.
+1604359976: New connection from 172.30.0.4 on port 8883.
+1604359976: New client connected from 172.30.0.4 as mqttjs_105f1d1a (p2, c1, k60).
+1604360847: Socket error on client mqttjs_105f1d1a, disconnecting.
+1604360866: New connection from 172.30.0.4 on port 8883.
+1604360866: New client connected from 172.30.0.4 as mqttjs_cffb69f3 (p2, c1, k60).
+1604360951: Socket error on client mqttjs_cffb69f3, disconnecting.
+1604360956: New connection from 172.30.0.4 on port 8883.
+1604360956: New client connected from 172.30.0.4 as mqttjs_83ab93a4 (p2, c1, k60).
+1604361061: Socket error on client mqttjs_83ab93a4, disconnecting.
+1604361067: New connection from 172.30.0.4 on port 8883.
+1604361067: New client connected from 172.30.0.4 as mqttjs_30f678dd (p2, c1, k60).
+1604361129: Socket error on client mqttjs_30f678dd, disconnecting.
+1604361137: New connection from 172.30.0.4 on port 8883.
+1604361137: New client connected from 172.30.0.4 as mqttjs_1617f9c4 (p2, c1, k60).
+1604361215: Socket error on client mqttjs_1617f9c4, disconnecting.
+1604361223: New connection from 172.30.0.4 on port 8883.
+1604361223: New client connected from 172.30.0.4 as mqttjs_49b655f3 (p2, c1, k60).
+1604361224: Socket error on client mqttjs_49b655f3, disconnecting.
+1604361299: New connection from 172.30.0.4 on port 8883.
+1604361299: New client connected from 172.30.0.4 as mqttjs_6acaf286 (p2, c1, k60).
+1604361303: Socket error on client mqttjs_6acaf286, disconnecting.
+1604361428: New connection from 172.30.0.4 on port 8883.
+1604361428: New client connected from 172.30.0.4 as mqttjs_9b3684ec (p2, c1, k60).
+1604361560: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604361570: Socket error on client mqttjs_9b3684ec, disconnecting.
+1604361575: New connection from 172.30.0.4 on port 8883.
+1604361575: New client connected from 172.30.0.4 as mqttjs_ee1ec967 (p2, c1, k60).
+1604361606: Socket error on client mqttjs_ee1ec967, disconnecting.
+1604361611: New connection from 172.30.0.4 on port 8883.
+1604361611: New client connected from 172.30.0.4 as mqttjs_2655a7c2 (p2, c1, k60).
+1604361615: Socket error on client mqttjs_2655a7c2, disconnecting.
+1604361667: New connection from 172.30.0.4 on port 8883.
+1604361667: New client connected from 172.30.0.4 as mqttjs_e0c997cb (p2, c1, k60).
+1604361726: Socket error on client mqttjs_e0c997cb, disconnecting.
+1604361734: New connection from 172.30.0.4 on port 8883.
+1604361734: New client connected from 172.30.0.4 as mqttjs_7614aa61 (p2, c1, k60).
+1604361745: Socket error on client mqttjs_7614aa61, disconnecting.
+1604361753: New connection from 172.30.0.4 on port 8883.
+1604361753: New client connected from 172.30.0.4 as mqttjs_75dfa457 (p2, c1, k60).
+1604361795: Socket error on client mqttjs_75dfa457, disconnecting.
+1604361804: New connection from 172.30.0.4 on port 8883.
+1604361804: New client connected from 172.30.0.4 as mqttjs_9645e611 (p2, c1, k60).
+1604361839: Socket error on client mqttjs_9645e611, disconnecting.
+1604361853: New connection from 172.30.0.4 on port 8883.
+1604361853: New client connected from 172.30.0.4 as mqttjs_c5da8049 (p2, c1, k60).
+1604361853: Socket error on client mqttjs_c5da8049, disconnecting.
+1604361874: New connection from 172.30.0.4 on port 8883.
+1604361874: New client connected from 172.30.0.4 as mqttjs_fca7e2f6 (p2, c1, k60).
+1604361877: Socket error on client mqttjs_fca7e2f6, disconnecting.
+1604361896: New connection from 172.30.0.4 on port 8883.
+1604361896: New client connected from 172.30.0.4 as mqttjs_17504e9e (p2, c1, k60).
+1604361900: Socket error on client mqttjs_17504e9e, disconnecting.
+1604362019: New connection from 172.30.0.4 on port 8883.
+1604362019: New client connected from 172.30.0.4 as mqttjs_0aa88b90 (p2, c1, k60).
+1604362275: Socket error on client mqttjs_0aa88b90, disconnecting.
+1604362281: New connection from 172.30.0.4 on port 8883.
+1604362281: New client connected from 172.30.0.4 as mqttjs_995967eb (p2, c1, k60).
+1604362297: Socket error on client mqttjs_995967eb, disconnecting.
+1604362302: New connection from 172.30.0.4 on port 8883.
+1604362302: New client connected from 172.30.0.4 as mqttjs_3bf87682 (p2, c1, k60).
+1604362336: Socket error on client mqttjs_3bf87682, disconnecting.
+1604362342: New connection from 172.30.0.4 on port 8883.
+1604362342: New client connected from 172.30.0.4 as mqttjs_cb74435d (p2, c1, k60).
+1604362368: Socket error on client mqttjs_cb74435d, disconnecting.
+1604362374: New connection from 172.30.0.4 on port 8883.
+1604362374: New client connected from 172.30.0.4 as mqttjs_2aa4d0d6 (p2, c1, k60).
+1604362376: Socket error on client mqttjs_2aa4d0d6, disconnecting.
+1604373355: mosquitto version 1.6.12 starting
+1604373355: Config loaded from /mosquitto/config/mosquitto.conf.
+1604373355: Opening ipv4 listen socket on port 8883.
+1604373355: Opening ipv6 listen socket on port 8883.
+1604373355: mosquitto version 1.6.12 running
+1604373370: New connection from 172.30.0.4 on port 8883.
+1604373370: New client connected from 172.30.0.4 as mqttjs_2f832272 (p2, c1, k60).
+1604373386: Socket error on client mqttjs_2f832272, disconnecting.
+1604375979: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604376090: New connection from 172.30.0.4 on port 8883.
+1604376090: New client connected from 172.30.0.4 as mqttjs_6bec8b4c (p2, c1, k60).
+1604376095: Socket error on client mqttjs_6bec8b4c, disconnecting.
+1604376101: New connection from 172.30.0.4 on port 8883.
+1604376101: New client connected from 172.30.0.4 as mqttjs_e881dea6 (p2, c1, k60).
+1604376165: Socket error on client mqttjs_e881dea6, disconnecting.
+1604376165: mosquitto version 1.6.12 terminating
+1604376165: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604376284: mosquitto version 1.6.12 starting
+1604376284: Config loaded from /mosquitto/config/mosquitto.conf.
+1604376284: Opening ipv4 listen socket on port 8883.
+1604376284: Opening ipv6 listen socket on port 8883.
+1604376284: mosquitto version 1.6.12 running
+1604376292: New connection from 172.19.0.4 on port 8883.
+1604376292: New client connected from 172.19.0.4 as mqttjs_6082c89b (p2, c1, k60).
+1604392125: mosquitto version 1.6.12 starting
+1604392125: Config loaded from /mosquitto/config/mosquitto.conf.
+1604392125: Opening ipv4 listen socket on port 8883.
+1604392125: Opening ipv6 listen socket on port 8883.
+1604392125: mosquitto version 1.6.12 running
+1604392129: New connection from 172.21.0.4 on port 8883.
+1604392129: New client connected from 172.21.0.4 as mqttjs_65a21769 (p2, c1, k60).
+1604392459: Socket error on client mqttjs_65a21769, disconnecting.
+1604392462: New connection from 172.21.0.4 on port 8883.
+1604392462: New client connected from 172.21.0.4 as mqttjs_f88dfe8a (p2, c1, k60).
+1604393926: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604394266: Socket error on client mqttjs_f88dfe8a, disconnecting.
+1604443283: mosquitto version 1.6.12 starting
+1604443283: Config loaded from /mosquitto/config/mosquitto.conf.
+1604443283: Opening ipv4 listen socket on port 8883.
+1604443283: Opening ipv6 listen socket on port 8883.
+1604443283: mosquitto version 1.6.12 running
+1604443289: New connection from 172.23.0.4 on port 8883.
+1604443289: New client connected from 172.23.0.4 as mqttjs_d57682ea (p2, c1, k60).
+1604443325: Socket error on client mqttjs_d57682ea, disconnecting.
+1604443328: New connection from 172.23.0.4 on port 8883.
+1604443328: New client connected from 172.23.0.4 as mqttjs_8178fbaa (p2, c1, k60).
+1604443916: Socket error on client mqttjs_8178fbaa, disconnecting.
+1604444031: New connection from 172.23.0.4 on port 8883.
+1604444031: New client connected from 172.23.0.4 as mqttjs_784a9f50 (p2, c1, k60).
+1604444088: Socket error on client mqttjs_784a9f50, disconnecting.
+1604444091: New connection from 172.23.0.4 on port 8883.
+1604444091: New client connected from 172.23.0.4 as mqttjs_5ba9c6da (p2, c1, k60).
+1604444184: Socket error on client mqttjs_5ba9c6da, disconnecting.
+1604444187: New connection from 172.23.0.4 on port 8883.
+1604444187: New client connected from 172.23.0.4 as mqttjs_75febac8 (p2, c1, k60).
+1604444214: Socket error on client mqttjs_75febac8, disconnecting.
+1604444217: New connection from 172.23.0.4 on port 8883.
+1604444217: New client connected from 172.23.0.4 as mqttjs_c1b73f50 (p2, c1, k60).
+1604444291: Socket error on client mqttjs_c1b73f50, disconnecting.
+1604444294: New connection from 172.23.0.4 on port 8883.
+1604444294: New client connected from 172.23.0.4 as mqttjs_49afe286 (p2, c1, k60).
+1604444295: Socket error on client mqttjs_49afe286, disconnecting.
+1604444304: New connection from 172.23.0.4 on port 8883.
+1604444304: New client connected from 172.23.0.4 as mqttjs_c895cbf2 (p2, c1, k60).
+1604444372: Socket error on client mqttjs_c895cbf2, disconnecting.
+1604444376: New connection from 172.23.0.4 on port 8883.
+1604444376: New client connected from 172.23.0.4 as mqttjs_099082a8 (p2, c1, k60).
+1604444496: Socket error on client mqttjs_099082a8, disconnecting.
+1604444501: New connection from 172.23.0.4 on port 8883.
+1604444501: New client connected from 172.23.0.4 as mqttjs_1cbf08c8 (p2, c1, k60).
+1604444506: Socket error on client mqttjs_1cbf08c8, disconnecting.
+1604444567: New connection from 172.23.0.4 on port 8883.
+1604444567: New client connected from 172.23.0.4 as mqttjs_d0bf36b6 (p2, c1, k60).
+1604444599: Socket error on client mqttjs_d0bf36b6, disconnecting.
+1604444603: New connection from 172.23.0.4 on port 8883.
+1604444603: New client connected from 172.23.0.4 as mqttjs_ae2ea27e (p2, c1, k60).
+1604444678: mosquitto version 1.6.12 starting
+1604444678: Config loaded from /mosquitto/config/mosquitto.conf.
+1604444678: Opening ipv4 listen socket on port 8883.
+1604444678: Opening ipv6 listen socket on port 8883.
+1604444678: mosquitto version 1.6.12 running
+1604444684: New connection from 172.25.0.4 on port 8883.
+1604444684: New client connected from 172.25.0.4 as mqttjs_0473f30b (p2, c1, k60).
+1604444719: Socket error on client mqttjs_0473f30b, disconnecting.
+1604444722: New connection from 172.25.0.4 on port 8883.
+1604444722: New client connected from 172.25.0.4 as mqttjs_cfb8cbc7 (p2, c1, k60).
+1604446479: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604448280: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604450081: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604451882: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604453683: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604455484: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604457036: Socket error on client mqttjs_cfb8cbc7, disconnecting.
+1604457037: mosquitto version 1.6.12 terminating
+1604457037: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604457093: mosquitto version 1.6.12 starting
+1604457093: Config loaded from /mosquitto/config/mosquitto.conf.
+1604457093: Opening ipv4 listen socket on port 8883.
+1604457093: Opening ipv6 listen socket on port 8883.
+1604457093: mosquitto version 1.6.12 running
+1604457098: New connection from 172.28.0.4 on port 8883.
+1604457098: New client connected from 172.28.0.4 as mqttjs_1483a79e (p2, c1, k60).
+1604457100: Socket error on client mqttjs_1483a79e, disconnecting.
+1604457124: mosquitto version 1.6.12 terminating
+1604457124: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604457167: mosquitto version 1.6.12 starting
+1604457167: Config loaded from /mosquitto/config/mosquitto.conf.
+1604457167: Opening ipv4 listen socket on port 8883.
+1604457167: Opening ipv6 listen socket on port 8883.
+1604457167: mosquitto version 1.6.12 running
+1604457172: New connection from 172.30.0.4 on port 8883.
+1604457172: New client connected from 172.30.0.4 as mqttjs_400a2adf (p2, c1, k60).
+1604457180: Socket error on client mqttjs_400a2adf, disconnecting.
+1604457253: New connection from 172.30.0.4 on port 8883.
+1604457253: New client connected from 172.30.0.4 as mqttjs_a8bcc4f4 (p2, c1, k60).
+1604457255: Socket error on client mqttjs_a8bcc4f4, disconnecting.
+1604457322: New connection from 172.30.0.4 on port 8883.
+1604457322: New client connected from 172.30.0.4 as mqttjs_9c1db7e2 (p2, c1, k60).
+1604457326: Socket error on client mqttjs_9c1db7e2, disconnecting.
+1604457403: New connection from 172.30.0.4 on port 8883.
+1604457403: New client connected from 172.30.0.4 as mqttjs_25440f44 (p2, c1, k60).
+1604457433: Socket error on client mqttjs_25440f44, disconnecting.
+1604457435: New connection from 172.30.0.4 on port 8883.
+1604457435: New client connected from 172.30.0.4 as mqttjs_c244a775 (p2, c1, k60).
+1604457506: Socket error on client mqttjs_c244a775, disconnecting.
+1604457510: New connection from 172.30.0.4 on port 8883.
+1604457510: New client connected from 172.30.0.4 as mqttjs_ed744585 (p2, c1, k60).
+1604457512: Socket error on client mqttjs_ed744585, disconnecting.
+1604457557: New connection from 172.30.0.4 on port 8883.
+1604457557: New client connected from 172.30.0.4 as mqttjs_09f40968 (p2, c1, k60).
+1604457557: Socket error on client mqttjs_09f40968, disconnecting.
+1604457571: New connection from 172.30.0.4 on port 8883.
+1604457571: New client connected from 172.30.0.4 as mqttjs_94cd15bc (p2, c1, k60).
+1604457598: Socket error on client mqttjs_94cd15bc, disconnecting.
+1604457788: New connection from 172.30.0.4 on port 8883.
+1604457788: New client connected from 172.30.0.4 as mqttjs_fc9316ef (p2, c1, k60).
+1604457791: Socket error on client mqttjs_fc9316ef, disconnecting.
+1604457918: New connection from 172.30.0.4 on port 8883.
+1604457918: New client connected from 172.30.0.4 as mqttjs_cae6ead6 (p2, c1, k60).
+1604457922: Socket error on client mqttjs_cae6ead6, disconnecting.
+1604457953: New connection from 172.30.0.4 on port 8883.
+1604457953: New client connected from 172.30.0.4 as mqttjs_c6d7b759 (p2, c1, k60).
+1604457954: Socket error on client mqttjs_c6d7b759, disconnecting.
+1604458968: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604459223: New connection from 172.30.0.4 on port 8883.
+1604459223: New client connected from 172.30.0.4 as mqttjs_5937be09 (p2, c1, k60).
+1604459231: Socket error on client mqttjs_5937be09, disconnecting.
+1604459284: New connection from 172.30.0.4 on port 8883.
+1604459284: New client connected from 172.30.0.4 as mqttjs_0b25f166 (p2, c1, k60).
+1604459286: Socket error on client mqttjs_0b25f166, disconnecting.
+1604459415: New connection from 172.30.0.4 on port 8883.
+1604459415: New client connected from 172.30.0.4 as mqttjs_a4fab60b (p2, c1, k60).
+1604459438: Socket error on client mqttjs_a4fab60b, disconnecting.
+1604459441: New connection from 172.30.0.4 on port 8883.
+1604459441: New client connected from 172.30.0.4 as mqttjs_8cccb149 (p2, c1, k60).
+1604459663: Socket error on client mqttjs_8cccb149, disconnecting.
+1604459666: New connection from 172.30.0.4 on port 8883.
+1604459666: New client connected from 172.30.0.4 as mqttjs_9e15fa47 (p2, c1, k60).
+1604459676: Socket error on client mqttjs_9e15fa47, disconnecting.
+1604459679: New connection from 172.30.0.4 on port 8883.
+1604459679: New client connected from 172.30.0.4 as mqttjs_0cc0b5bc (p2, c1, k60).
+1604459695: Socket error on client mqttjs_0cc0b5bc, disconnecting.
+1604459698: New connection from 172.30.0.4 on port 8883.
+1604459698: New client connected from 172.30.0.4 as mqttjs_0b43cbfc (p2, c1, k60).
+1604459747: Socket error on client mqttjs_0b43cbfc, disconnecting.
+1604459760: New connection from 172.30.0.4 on port 8883.
+1604459760: New client connected from 172.30.0.4 as mqttjs_848162c6 (p2, c1, k60).
+1604459776: Socket error on client mqttjs_848162c6, disconnecting.
+1604459778: New connection from 172.30.0.4 on port 8883.
+1604459778: New client connected from 172.30.0.4 as mqttjs_71839b4e (p2, c1, k60).
+1604459961: Socket error on client mqttjs_71839b4e, disconnecting.
+1604459964: New connection from 172.30.0.4 on port 8883.
+1604459964: New client connected from 172.30.0.4 as mqttjs_391d597a (p2, c1, k60).
+1604460025: Socket error on client mqttjs_391d597a, disconnecting.
+1604460029: New connection from 172.30.0.4 on port 8883.
+1604460029: New client connected from 172.30.0.4 as mqttjs_866fabd4 (p2, c1, k60).
+1604460047: Socket error on client mqttjs_866fabd4, disconnecting.
+1604460050: New connection from 172.30.0.4 on port 8883.
+1604460050: New client connected from 172.30.0.4 as mqttjs_eb242482 (p2, c1, k60).
+1604460066: Socket error on client mqttjs_eb242482, disconnecting.
+1604460070: New connection from 172.30.0.4 on port 8883.
+1604460070: New client connected from 172.30.0.4 as mqttjs_1fa22495 (p2, c1, k60).
+1604460164: Socket error on client mqttjs_1fa22495, disconnecting.
+1604460167: New connection from 172.30.0.4 on port 8883.
+1604460167: New client connected from 172.30.0.4 as mqttjs_b0e830aa (p2, c1, k60).
+1604460197: Socket error on client mqttjs_b0e830aa, disconnecting.
+1604460200: New connection from 172.30.0.4 on port 8883.
+1604460200: New client connected from 172.30.0.4 as mqttjs_bc5f64ff (p2, c1, k60).
+1604460769: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1604461402: Socket error on client mqttjs_bc5f64ff, disconnecting.
+1604461405: New connection from 172.30.0.4 on port 8883.
+1604461405: New client connected from 172.30.0.4 as mqttjs_d6a48053 (p2, c1, k60).
+1613443868: mosquitto version 2.0.7 starting
+1613443868: Config loaded from /mosquitto/config/mosquitto.conf.
+1613443868: Opening ipv4 listen socket on port 1883.
+1613443868: Opening ipv6 listen socket on port 1883.
+1613443868: mosquitto version 2.0.7 running
+1613443872: New connection from 192.168.48.4:59200 on port 1883.
+1613443872: Client <unknown> disconnected, not authorised.
+1613444233: mosquitto version 2.0.7 terminating
+1613444233: Saving in-memory database to /mosquitto/data//mosquitto.db.

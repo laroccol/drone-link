@@ -1,0 +1,84 @@
+image: docker:18
+
+stages:
+  - build_client
+  - build_api
+  - build_test
+  - retag_mqtt_and_database
+  - test_app
+
+
+build_client:
+  stage: build_client
+  services:
+    - docker:dind
+  before_script:
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+  script:
+    - cp -R web/static web/client/static
+    - cd web/client
+    - docker build -t "$CI_REGISTRY_IMAGE/client:$CI_PIPELINE_ID" .
+    - docker push "$CI_REGISTRY_IMAGE/client:$CI_PIPELINE_ID"
+
+
+build_api:
+  stage: build_api
+  services:
+    - docker:dind
+  before_script:
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+  script:
+    - cp -R web/static web/api/static
+    - cd web/api
+    - docker build -t "$CI_REGISTRY_IMAGE/api:$CI_PIPELINE_ID" .
+    - docker push "$CI_REGISTRY_IMAGE/api:$CI_PIPELINE_ID"
+
+
+retag_mqtt_and_database:
+  stage: retag_mqtt_and_database
+  services:
+    - docker:dind
+  before_script:
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+  script:
+    - docker pull eclipse-mosquitto:latest
+    - docker tag eclipse-mosquitto:latest "$CI_REGISTRY_IMAGE/mqtt:$CI_PIPELINE_ID"
+    - docker push "$CI_REGISTRY_IMAGE/mqtt:$CI_PIPELINE_ID"
+    - docker pull rethinkdb:latest
+    - docker tag rethinkdb:latest "$CI_REGISTRY_IMAGE/database:$CI_PIPELINE_ID"
+    - docker push "$CI_REGISTRY_IMAGE/database:$CI_PIPELINE_ID"
+  allow_failure: true
+
+
+build_test:
+  stage: build_test
+  services:
+    - docker:dind
+  before_script:
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+  script:
+    - cd testing/robot
+    - docker build -t "$CI_REGISTRY_IMAGE/tests:$CI_PIPELINE_ID" .
+    - docker push "$CI_REGISTRY_IMAGE/tests:$CI_PIPELINE_ID"
+
+
+test_app:
+  stage: test_app
+  image: docker/compose:1.27.4
+  services:
+    - docker:dind
+  before_script:
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+  script:
+      - export TAG_ID=$CI_PIPELINE_ID
+      - cd web
+      - docker-compose -f docker-compose-deploy.yml up -d
+      - docker pull registry.gitlab.com/msoe.edu/sdl/sd21/pw-fhklm/drone-link/tests:$CI_PIPELINE_ID
+      - cd ../testing/robot/testing
+      - docker run --network=web_backend -v $(pwd):/root registry.gitlab.com/msoe.edu/sdl/sd21/pw-fhklm/drone-link/tests:$CI_PIPELINE_ID robot -d results/ TestSuites/timer.robot
+      - ls
+  artifacts:
+    when: always
+    paths:
+      - results/*
+    expire_in: 1 week

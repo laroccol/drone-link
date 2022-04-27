@@ -1,0 +1,49 @@
+version: "3.8"
+
+services: 
+    client:
+        container_name: client
+        image: "registry.gitlab.com/msoe.edu/sdl/sd21/pw-fhklm/drone-link/client:$TAG_ID"
+        restart: always
+        networks: 
+            - frontend
+    api:
+        container_name: api
+        image: "registry.gitlab.com/msoe.edu/sdl/sd21/pw-fhklm/drone-link/api:$TAG_ID"
+        ports: 
+            - 3000:3000
+        restart: always
+        depends_on: 
+            - database
+            - mqtt
+        links: 
+            - database:database
+            - mqtt:mqtt
+        networks:
+            - backend
+            - frontend
+    database:
+        container_name: database
+        image: "registry.gitlab.com/msoe.edu/sdl/sd21/pw-fhklm/drone-link/database:$TAG_ID"
+        restart: always
+        ports:
+            - 8080:8080
+            - 28015:28015
+            - 29015:29015
+        volumes: 
+            - ./database:/data/rethinkdb_data
+        networks:
+            - backend
+    mqtt:
+        container_name: mqtt
+        image: "registry.gitlab.com/msoe.edu/sdl/sd21/pw-fhklm/drone-link/mqtt:$TAG_ID"
+        ports: 
+            - 8883:8883
+            - 1883:1883
+        networks: 
+            - backend
+        restart: always
+
+networks:
+    frontend:
+    backend:

@@ -1,0 +1,64 @@
+version: "3.8"
+
+services: 
+    client:
+        container_name: client
+        image: webpack
+        build: 
+            context: .
+            dockerfile: client/Dockerfile.dev
+        volumes: 
+            - ./client/src:/app/client/src:rw
+            - ./static:/app/static:rw
+        restart: always
+        networks: 
+            - frontend
+    api:
+        container_name: api
+        build:
+            context: .
+            dockerfile: api/Dockerfile.dev
+        ports: 
+            - 3000:3000
+        volumes:
+            - ./api/src:/app/api/src:rw
+            - ./static:/app/static:rw
+        restart: always
+        depends_on: 
+            - database
+            - mqtt
+        links: 
+            - database:database
+            - mqtt:mqtt
+        networks:
+            - backend
+            - frontend
+    database:
+        container_name: database
+        image: rethinkdb:latest
+        restart: always
+        ports:
+            - 8080:8080
+            - 28015:28015
+            - 29015:29015
+        volumes: 
+            - ./database:/data/rethinkdb_data
+        networks:
+            - backend
+    mqtt:
+        container_name: mqtt
+        image: eclipse-mosquitto:1.6.13
+        
+        volumes: 
+            - ./mqtt/log:/mosquitto/log
+        
+        ports: 
+            - 8883:8883
+            - 1883:1883
+        networks: 
+            - backend
+        restart: always
+
+networks:
+    frontend:
+    backend:
